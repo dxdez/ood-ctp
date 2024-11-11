@@ -1,8 +1,8 @@
-# Classic Team Picker
+# Team Picker
 
 > **Note: This project is no longer actively maintained, and the host URL endpoint is no longer active. It has been archived for historical purposes. Feel free to explore the code, but please note that it is no longer in use or supported.**
 
-The Classic Team Picker is a prototype application developed using React and JSX components which allow a user to allocate team members to specific groups. A user can add or remove members from a team group as well as view the full member list of each group. 
+The Team Picker is a prototype application developed using React and JSX components which allow a user to allocate team members to specific groups. A user can add or remove members from a team group as well as view the full member list of each group. 
 
 On the application, simply click the card of the member you would like to add and remove. If the card has a black highlight, then it is included in the group. To change groups, simply select from the drop-downs and pick the group name that you would like to view or update. 
 
